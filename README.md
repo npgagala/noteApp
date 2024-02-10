@@ -1,6 +1,15 @@
 # Notes Application
 A simple java spring boot application that saves, deletes, updates, and get individual or all notes via REST endpoint.
 
+## How to run
+Requirements:
+1. Java 17
+
+Instructions:
+1. Download the jar file from the **Releases** page and save it to any directory.
+2. Open the directory via cmd.
+3. Run the jar file via cmd using ````java -jar notes-0.0.1-SNAPSHOT.jar````.
+
 ## How to use
 
 Create new note:
